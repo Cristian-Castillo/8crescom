@@ -60,7 +60,7 @@ export default class Container extends Component {
                 <div className = 'row'>
                     {/*Container Coming soon and Sign up for today*/}
                         <div className = 'rowThree'>
-                            <img className = 'imgCres' src = 'https://thumbs.dreamstime.com/b/hands-holding-house-symbol-heart-shape-icon-eps-file-50307555.jpg' alt ='Dreamstime.com'/>
+                            <img className = 'imgCres' src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqrsDtAZGGgq5Hc2rYFYSJ7k1pd0rrjyeVQg&usqp=CAU' alt ='Dreamstime.com'/>
                             <h1 className = 'comingStyle'>Coming soon.</h1>
                             <h1 style = {{paddingBottom:'20px'}} className = 'comingStyle'>{this.state.wasClicked === true ? `Thank you for signing up ${this.state.submit}` : 'Sign up today for updates.'}</h1>
                         </div>
