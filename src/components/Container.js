@@ -52,7 +52,7 @@ export default class Container extends Component {
                     {/*Center Text 8Cres in middle of background pic */}
                     <div style = {{marginTop:'100px'}}classNme = 'row'>
                         <div className = 'rowTwo'>
-                            <h2 className = 'innerTextStyle'><strong>8CRES.</strong></h2>
+                            <h2 className = 'innerTextStyle'><strong>Urban Dev.</strong></h2>
                             <h3 className = 'innerTextStyle'><strong>The home ownership plug.</strong></h3>
                         </div>
                     </div>
@@ -81,12 +81,12 @@ export default class Container extends Component {
                 </div>
                 <div style = {{backgroundColor:'white',marginTop:'-5px'}} className = 'row'>
                     <div className = 'rowFive' >
-                        <h5 style = {{paddingLeft:'12px',paddingRight:'12px'}}><strong><i>8CRES</i></strong> is dedicated to improving homeownership for underrepresented communities.</h5>
+                        <h5 style = {{paddingLeft:'12px',paddingRight:'12px'}}><strong><i>Urban Dev</i></strong> is dedicated to improving homeownership for underrepresented communities.</h5>
                         <h5 style = {{paddingTop:'30px'}}><strong>Sign up today for updates.</strong> to be one of the first to download the app and see how easy buying a home can be.</h5>
                     </div>
                 </div>
                 <div style = {{backgroundColor:'white',paddingLeft:'12px',paddingRight:'12px'}} className = 'row'>
-                    <h6 style = {{margin:'auto',color:'gray',paddingBottom:'5px'}}>8CRES 2020 ©</h6>
+                    <h6 style = {{margin:'auto',color:'gray',paddingBottom:'5px'}}>Urban Dev 2020 ©</h6>
                 </div>
             </div>
         )
