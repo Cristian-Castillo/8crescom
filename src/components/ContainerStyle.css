@@ -1,0 +1,84 @@
+
+.container-fluid{
+    padding:0px 5px 0px 5px;
+    text-align:center;
+}
+.rowOne{
+    background-color:white;
+    height:70px;
+}
+
+.rowTwo{
+    margin-top:240px;
+}
+
+.innerTextStyle{
+    color:white;
+}
+
+.imgCres{
+    height:130px;
+    width:130px;
+}
+
+.rowThree{
+    background-color:white;
+    margin:auto;
+    margin-top:200px;
+    padding-top:40px;
+    width:100%;
+}
+
+.comingStyle{
+    font-weight:700;
+    margin-top:20px;
+    font-size:2.8rem;
+}
+
+.rowFour{
+    background-color:white;
+    margin:auto;
+    width:100%;
+}
+
+.emailButtonStyle{
+    padding-top:15px !important;
+    margin:auto;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-content: center;
+}
+
+.emailInput{
+    height:50px;
+}
+
+.inputStyle{
+    width:50%;
+}
+
+.submitButton{
+    margin-left:10px;
+    width:100px;
+    height:50px;
+}
+
+.submitButton:hover{
+    background-color:rgb(70, 66, 66) !important;
+    outline:none;
+    border-style:none;
+}
+
+.rowFive{
+    padding-top:50px;
+    display:flex;
+    flex-direction:column;
+    align-content:center;
+    justify-content: center;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    width:80%;
+    padding-bottom:50px;
+}
